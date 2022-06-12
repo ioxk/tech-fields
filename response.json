@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "title": "Artificial Intelligence (AI) and Machine Learning ",
+        "content": "Artificial Intelligence, or AI, has already received a lot of buzz in the past decade, but it continues to be one of the new technology trends because of its notable effects on how we live, work and play are only in the early stages. AI is already known for its superiority in image and speech recognition, navigation apps, smartphone personal assistants, ride-sharing apps and so much more.\n"
+    },
+    {
+        "id": "2",
+        "title": "Quantum Computing",
+        "content": "Next remarkable technology trend is quantum computing, which is a form of computing that takes advantage of quantum phenomena like superposition and quantum entanglement. This amazing technology trend is also involved in preventing the spread of the coronavirus, and to develop potential vaccines, thanks to its ability to easily query, monitor, analyze and act on data, regardless of the source. Another field where quantum computing is finding applications is banking and finance, to manage credit risk, for high-frequency trading and fraud detection.\nQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning."
+    },
+    {
+        "id": "3",
+        "title": "Virtual Reality and Augmented Reality",
+        "content": "The next exceptional technology trend - Virtual Reality (VR) and Augmented Reality (AR), and Extended Reality (ER). VR immerses the user in an environment while AR enhances their environment. Although this technology trend has primarily been used for gaming thus far, it has also been used for training, as with VirtualShip, a simulation software used to train U.S. Navy, Army and Coast Guard ship captains.\n\nIn 2022, we can expect these forms of technologies being further integrated into our lives. Usually working in tandem with some of the other emerging technologies we’ve mentioned in this list, AR and VR have enormous potential in training, entertainment, education, marketing, and even rehabilitation after an injury. Either could be used to train doctors to do surgery, offer museum goers a deeper experience, enhance theme parks, or even enhance marketing, as with this Pepsi Max bus shelter.\n\nFun fact: 14 million AR and VR devices were sold in 2019. The global AR and VR market is expected to grow to $209.2 billion by 2022, only creating more opportunities in the trending technology, and welcoming more professionals ready for this game-changing field. \n\nWhile some employers might look for optics as a skill-set, note that getting started in VR doesn’t require a lot of specialized knowledge - basic programming skills and a forward-thinking mindset can land a job; another reason why this new technology trend should make up to your list of lookouts."
+    },
+    {
+        "id": "4",
+        "title": "Blockchain",
+        "content": "Although most people think of blockchain technology in relation to cryptocurrencies such as Bitcoin, blockchain offers security that is useful in many other ways. In the simplest of terms, blockchain can be described as data you can only add to, not take away from, or change. Hence the term “chain” because you’re making a chain of data. Not being able to change the previous blocks is what makes it so secure. In addition, blockchains are consensus-driven, so no one entity can take control of the data. With blockchain, you don’t need a trusted third-party to oversee or validate transactions."
+    }
+]
